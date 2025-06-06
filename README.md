@@ -68,19 +68,19 @@ if x == 5 then print("x is five");
 📤 Output: print("x is five")
 
 
-🔒 Plagiarism Policy
+### 🔒 Plagiarism Policy
 This code is original and written by Supriya. Plagiarism or unauthorized copying will result in disqualification.
 
 ---
 
 
-🙌 Contributions
+###  🙌 Contributions
 This repository is part of an assignment to demonstrate algorithmic problem-solving, clean code practices, and test-driven development.
 
 ---
 
 
-📫 Contact
+###  📫 Contact
 For queries or collaborations, feel free to connect via LinkedIn or GitHub.
 
 ---
