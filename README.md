@@ -55,7 +55,7 @@ Count the number of islands in a matrix where `1`s are connected in **horizontal
 
 ---
 
-### 🔹 Bonus Challenge (Optional): Mini Interpreter
+### 🔹 Bonus Challenge : Mini Interpreter
 A basic interpreter that supports:
 - `let` variable assignments
 - `if` conditionals with print statements
